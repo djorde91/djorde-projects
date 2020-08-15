@@ -1,6 +1,9 @@
+
+#TODO update Dockerfile and image creation, an issue is already opened on github.
 FROM node:latest
 
 # Create app directory
+# is that WORKDIR correct?
 WORKDIR /usr/src/app
 
 # Install app dependencies
