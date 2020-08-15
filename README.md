@@ -12,4 +12,4 @@ npm install
 npm start
 ```
 
-**For viewing the web** on your browser: [[link to Google!](http://localhost:3000/)](http://localhost:3000/)
+**For viewing the web** on your browser: [http://localhost:3000/](http://localhost:3000/)
